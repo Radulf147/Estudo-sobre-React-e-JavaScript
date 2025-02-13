@@ -1,6 +1,3 @@
 # Estudos-sobre-React-e-JavaScript
 
-Estou estou estudando pelo canal do Dev Club Programação.
-
-A primeira aula foi ele ensinando Node.js, fazer um servidor, fazer metodos get, put, post e del e usar o MongoDB.
-
+Desenvolvi um projeto de cadastro e delete de usuarios do banco de dados, conta com uma estrutura frontend usando react js e backend com Node, o banco de dados usado foi MongoDB
